@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionToML", "IntroductionToML.csproj", "{F8D25FF4-F238-439F-9B1B-FB33A1AFFBCC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroductionToMLML.Model", "..\IntroductionToMLML.Model\IntroductionToMLML.Model.csproj", "{77493C95-69ED-4241-A345-AFDDEF9CBAC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroductionToMLML.Model", "IntroductionToMLML.Model\IntroductionToMLML.Model.csproj", "{77493C95-69ED-4241-A345-AFDDEF9CBAC1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroductionToMLML.ConsoleApp", "..\IntroductionToMLML.ConsoleApp\IntroductionToMLML.ConsoleApp.csproj", "{C72D845A-C99C-4E55-8677-3AFAFBF6048C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroductionToMLML.ConsoleApp", "IntroductionToMLML.ConsoleApp\IntroductionToMLML.ConsoleApp.csproj", "{C72D845A-C99C-4E55-8677-3AFAFBF6048C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

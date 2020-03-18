@@ -8,9 +8,17 @@
     <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="Resources\"/>
+    <Compile Remove="IntroductionToMLML.ConsoleApp\**" />
+    <Compile Remove="IntroductionToMLML.Model\**" />
+    <EmbeddedResource Remove="IntroductionToMLML.ConsoleApp\**" />
+    <EmbeddedResource Remove="IntroductionToMLML.Model\**" />
+    <None Remove="IntroductionToMLML.ConsoleApp\**" />
+    <None Remove="IntroductionToMLML.Model\**" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\IntroductionToMLML.Model\IntroductionToMLML.Model.csproj" />
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="IntroductionToMLML.Model\IntroductionToMLML.Model.csproj" />
   </ItemGroup>
 </Project>
