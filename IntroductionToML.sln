@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroductionToMLML.Model", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntroductionToMLML.ConsoleApp", "IntroductionToMLML.ConsoleApp\IntroductionToMLML.ConsoleApp.csproj", "{C72D845A-C99C-4E55-8677-3AFAFBF6048C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextPrediction", "..\TextPrediction\TextPrediction\TextPrediction.csproj", "{927DE4E0-F605-4891-B160-855377DF0CFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextPrediction", "TextPrediction\TextPrediction\TextPrediction.csproj", "{927DE4E0-F605-4891-B160-855377DF0CFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
